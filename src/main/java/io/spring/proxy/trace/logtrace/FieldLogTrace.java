@@ -4,6 +4,9 @@ import io.spring.proxy.trace.TraceId;
 import io.spring.proxy.trace.TraceStatus;
 import lombok.extern.slf4j.Slf4j;
 
+/**
+ * 동시성문제 발생!!
+ */
 @Slf4j
 public class FieldLogTrace implements LogTrace {
     private static final String START_PREFIX = "-->";
