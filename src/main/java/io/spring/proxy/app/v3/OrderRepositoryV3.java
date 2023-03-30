@@ -1,6 +1,6 @@
 package io.spring.proxy.app.v3;
 
-import io.spring.proxy.global.ThreadUtil;
+import io.spring.proxy.global.utils.ThreadUtil;
 import org.springframework.stereotype.Repository;
 
 @Repository

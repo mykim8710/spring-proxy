@@ -1,6 +1,6 @@
 package io.spring.proxy.app.v1;
 
-import io.spring.proxy.global.ThreadUtil;
+import io.spring.proxy.global.utils.ThreadUtil;
 
 public class OrderRepositoryV1Impl implements OrderRepositoryV1 {
     @Override

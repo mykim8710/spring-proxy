@@ -1,6 +1,6 @@
 package io.spring.proxy.app.v2;
 
-import io.spring.proxy.global.ThreadUtil;
+import io.spring.proxy.global.utils.ThreadUtil;
 
 public class OrderRepositoryV2  {
     public void save(String itemId) {

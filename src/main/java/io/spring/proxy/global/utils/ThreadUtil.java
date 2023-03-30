@@ -1,4 +1,4 @@
-package io.spring.proxy.global;
+package io.spring.proxy.global.utils;
 
 public class ThreadUtil {
     public static void sleep(int millis) {
