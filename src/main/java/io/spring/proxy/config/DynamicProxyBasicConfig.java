@@ -1,4 +1,4 @@
-package io.spring.proxy.config.v1proxy;
+package io.spring.proxy.config;
 
 import io.spring.proxy.app.v1.*;
 import io.spring.proxy.config.v1proxy.dynamicproxy.LogTraceBasicHandler;
